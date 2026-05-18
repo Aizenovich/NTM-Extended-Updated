@@ -88,10 +88,11 @@ build/libs
 
 Цепочка происхождения оригинального проекта:
 
-- оригинальный мод: [HBMTheBobcat](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT);
-- порт на 1.12.2: [Drilon200](https://github.com/Drillgon200/Hbm-s-Nuclear-Tech-GIT);
-- форк: [TheOriginalGolem](https://github.com/TheOriginalGolem/Hbm-s-Nuclear-Tech-GIT);
+- Оригинальный мод: [HBMTheBobcat](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT);
+- Порт на 1.12.2: [Drilon200](https://github.com/Drillgon200/Hbm-s-Nuclear-Tech-GIT);
+- Форк: [TheOriginalGolem](https://github.com/TheOriginalGolem/Hbm-s-Nuclear-Tech-GIT);
 - Extended Edition: [Alliterate](https://github.com/Alcatergit/Hbm-s-Nuclear-Tech-GIT).
+- Форк обновлен: Aizenovich / NTM-Extended-Updated.
 
 Этот репозиторий является неофициальным обновляемым форком с дополнительными исправлениями и патчами.
 
@@ -193,9 +194,10 @@ This project is based on **HBM Nuclear Tech Mod - 1.12.2 Extended Edition**.
 Original project lineage:
 
 - original mod: [HBMTheBobcat](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT);
-- 1.12.2 port: [Drilon200](https://github.com/Drillgon200/Hbm-s-Nuclear-Tech-GIT);
+- 1.12.2 port: [Drillgon200](https://github.com/Drillgon200/Hbm-s-Nuclear-Tech-GIT);
 - fork: [TheOriginalGolem](https://github.com/TheOriginalGolem/Hbm-s-Nuclear-Tech-GIT);
-- Extended Edition: [Alliterate](https://github.com/Alcatergit/Hbm-s-Nuclear-Tech-GIT).
+- Extended Edition: [Alcatergit](https://github.com/Alcatergit/Hbm-s-Nuclear-Tech-GIT);
+- Updated fork: Aizenovich / NTM-Extended-Updated.
 
 This repository is an unofficial-updated fork with additional fixes and patches.
 
